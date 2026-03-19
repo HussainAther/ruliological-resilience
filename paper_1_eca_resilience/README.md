@@ -1,6 +1,3 @@
-# 📄 `paper_1_eca_resilience/README.md`
-
-```markdown id="eca9r1"
 # Ruliological Resilience in Elementary Cellular Automata
 ### Quantifying Pattern Restoration Across Rule Space
 
@@ -299,6 +296,4 @@ AI Engineer — AAK Tele-Science
 
 > Not all rules compute the same way.
 > Some rules **recover**.
-
----
 
